@@ -1,0 +1,168 @@
+<mjml>
+  <mj-body background-color="#463df8">
+    <mj-raw>
+      <!--header-->
+    </mj-raw>
+
+    <mj-wrapper background-color="#fefdef">
+      <mj-section>
+        <mj-column>
+          <mj-image
+            src="https://i.postimg.cc/7Zc8jXw5/logo.png"
+            width="20px"
+            align="left"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-text
+            font-style="italic"
+            color="#3c7070"
+            font-weight="bold"
+            font-size="20px"
+          >
+            In the Know
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section border-top="1px solid">
+        <mj-column>
+          <mj-text color="#3c7070" font-size="35px" align="center">
+            Tips for smoother <br />
+            summer trips
+          </mj-text>
+          <mj-image src="https://i.postimg.cc/D05R6Pxy/man-laying-down.png" />
+          <mj-text color="#3c7070">
+            Listen: We’ve had a few good years of hot-mess summer travel, and
+            while we all may just be getting used to it at this point, there’s
+            still a voice in the back of our heads saying, “Maybe this year will
+            be...different.”
+          </mj-text>
+          <mj-text color="#3c7070">
+            While we can’t predict the future
+            <a
+              href="https://www.going.com/guides/travel-predictions-2024?lid=8cl30cnbdv14&ad-unit=none"
+              target="_blank"
+              >(no matter how hard we try)</a
+            >, trends can tell us quite a bit about the forecast of summer 2024
+            travel. And—are you sitting down?—this year may not be all that bad!
+            Wishful thinking? Maybe. But hear us out.
+          </mj-text>
+          <mj-text color="#3c7070">
+            There is a natural push and pull affecting flights every summer.
+            Weather is better during the warmer months, meaning fewer flights
+            get canceled due to cold weather storms than do in the winter. On
+            the other hand, travel demand is at its highest all year, meaning
+            the system is more strained.
+          </mj-text>
+          <mj-button
+            text-transform="uppercase"
+            color="white"
+            background-color="#3c7070"
+            border-radius="20px"
+            href="https://auth.going.com/u/login?state=hKFo2SA4RTlQYmNVX3NWeGpwQmp4MVZtRUxVR2dHbWc4YWxSMKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdXaE5nZXNGdzJjclJsZ1FiY3FGbkc0Sm9Pc0Y1OFRVo2NpZNkgSUhUTEE4VjkycFpScHdJWnliSnRBbWdpQng3ZUVkc1Q"
+            target="_blank"
+          >
+            Upgrade Now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#3c7490">
+        <mj-column>
+          <mj-text color="white" padding="25px"> Get the app today </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image
+            src="https://i.postimg.cc/Fsr4S7TH/App-Store-Google-Play.png"
+            width="350px"
+          />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="10px 110px">
+        <mj-column padding="0">
+          <mj-image
+            src="https://i.postimg.cc/L6xM32WB/facebook-icon.png"
+            width="45px"
+            padding="0 5px"
+            alt="facebook icon"
+            href="https://www.facebook.com/official.going"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image
+            src="https://i.postimg.cc/7ZbrBj8v/Instagram-icon.png"
+            width="45px"
+            padding="0 5px"
+            alt="instagram icon"
+            href="https://www.instagram.com/hello_going/"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image
+            src="https://i.postimg.cc/QMTGD5d0/Linkedin-Icon.png"
+            width="45px"
+            padding="0 5px"
+            alt="Linkedin icon"
+            href="https://www.linkedin.com/company/going/"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image
+            src=" https://i.postimg.cc/fLcGtNXd/Pinterest-Icon.png"
+            width="45px"
+            padding="0 5px"
+            alt=" Pinterest icon"
+            href="https://www.pinterest.com/going/"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image
+            src="https://i.postimg.cc/qBLfpppV/You-Tube-Icon.png "
+            width="45px"
+            padding="0 5px"
+            alt="Pinterest icon"
+            href="https://www.youtube.com/@hello_going"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image
+            src="https://i.postimg.cc/VLLx62NS/twitter-icon.png"
+            width="45px"
+            padding="0 5px"
+            href="https://x.com/goingtweets"
+            target="_blank"
+          />
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image
+            src="https://i.postimg.cc/FRXtHRfm/Tik-Tok-Icon.png "
+            width="45px"
+            padding="0 5px"
+            href="https://www.tiktok.com/@going"
+            target="_blank"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" color="#3c7070" padding="0">
+            ©Scott’s Cheap Flights, Inc. DBA Going
+          </mj-text>
+          <mj-text align="center" color="#3c7070" padding="0">
+            4845 Pearl East Circle, Suite 118
+          </mj-text>
+          <mj-text align="center" color="#3c7070" padding="0">
+            Boulder, CO 80301-6112
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
